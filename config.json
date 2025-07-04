@@ -84,8 +84,10 @@
     "卧龙": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "卧龙资源"
-  }，"豪华": {
+  }，
+    "豪华": {
       "api": " https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
-    
-}
+    }
+    }
+  }
