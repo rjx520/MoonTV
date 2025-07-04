@@ -80,6 +80,9 @@
     "非凡": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡云资源"
-    }
+    }，
+    "卧龙": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙资源"
   }
 }
