@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+      },
+    "非凡": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡云资源"
     }
   }
 }
